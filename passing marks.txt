@@ -1,0 +1,10 @@
+Marks=int(input("Enter Marks"))
+if(Marks>75):
+ print("A")
+elif(Marks>65):
+ print("B")
+elif(Marks>50):
+ print("c")
+else:
+    print("f")
+  
